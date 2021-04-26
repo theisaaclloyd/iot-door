@@ -1,2 +1,2 @@
 # iot-door
-The door to my bedroom is now on the internet.
+My bedroom door controls my spotify.
